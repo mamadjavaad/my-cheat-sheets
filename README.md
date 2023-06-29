@@ -1,10 +1,19 @@
-# my-cheat-sheets
+# My Cheat Sheets
+Created with the help of the author(mamadjavaad) and chatbot GPT.
 
 An awesome collection of cheat sheets for programming languages, frameworks, tools, and libraries.
+
 
 ## Usage
 
 Feel free to explore the cheat sheets available in this repository. Each cheat sheet is provided in a markdown format, making it easy to view and download. Simply navigate to the respective folder for the desired topic and access the markdown file.
+
+## Cheat Sheets by Language
+
+You can find cheat sheets for various programming languages in their respective folders:
+
+- JavaScript: [JS-box](./JS-box)
+- and more on the way...
 
 ## Contributing
 
@@ -26,3 +35,8 @@ This repository and its contents are licensed under the MIT License. You are fre
 ## Disclaimer
 
 The cheat sheets in this repository are intended to be helpful references but may not cover all aspects or versions of the related technologies. Always refer to official documentation and resources for comprehensive information.
+
+##Created By :
+
+Created with the help of the creator and chatbot GPT.
+
