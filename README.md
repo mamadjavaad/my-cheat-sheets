@@ -10,7 +10,7 @@ Feel free to explore the cheat sheets available in this repository. Each cheat s
 
 ## Cheat Sheets by Language
 
-You can find cheat sheets for various programming languages in their respective folders:
+You can find cheat sheets for various programming languages and their  Frameworks , libraries and tools  in their respective folders:
 
 - JavaScript: [JS-box](./JS-box)
 - and more on the way...
