@@ -1,5 +1,6 @@
-# my-new-cheat-sheet
-An awesome collection of cheat sheets for programming languages, frameworks, tools, and libraries
+# my-cheat-sheets
+
+An awesome collection of cheat sheets for programming languages, frameworks, tools, and libraries.
 
 ## Usage
 
@@ -10,10 +11,10 @@ Feel free to explore the cheat sheets available in this repository. Each cheat s
 Contributions to this repository are welcome! If you have a cheat sheet that you would like to add or want to improve an existing one, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch with a descriptive name: `git checkout -b my-new-cheat-sheet`.
+2. Create a new branch with a descriptive name: `git checkout -b your-descriptive-branch-name`.
 3. Add your cheat sheet file in the appropriate folder or make improvements to an existing one.
 4. Commit your changes: `git commit -am 'Add new cheat sheet'`.
-5. Push the branch to your forked repository: `git push origin my-new-cheat-sheet`.
+5. Push the branch to your forked repository: `git push origin your-descriptive-branch-name`.
 6. Open a pull request in this repository, providing a clear description of your contribution.
 
 Please ensure that the cheat sheets adhere to the established format and provide accurate and up-to-date information.
@@ -25,4 +26,3 @@ This repository and its contents are licensed under the MIT License. You are fre
 ## Disclaimer
 
 The cheat sheets in this repository are intended to be helpful references but may not cover all aspects or versions of the related technologies. Always refer to official documentation and resources for comprehensive information.
-
