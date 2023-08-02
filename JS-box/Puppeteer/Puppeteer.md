@@ -102,6 +102,21 @@ page.on('dialog', async (dialog) => {
 });
 
 ```
+## Working with Frames and IFrames
+
+Puppeteer provides methods to interact with frames and iframes within a web page. Here's an example of how to access an iframe and perform actions within it:
+
+```javascript
+// Get the iframe element
+const frameElement = await page.$('iframe');
+
+// Get the content frame
+const frame = await frameElement.contentFrame();
+
+// Perform actions within the frame
+await frame.click('button#myButton');
+```
+
 ## Emulating Devices and Network Conditions
 
 ### Emulating a specific device:
