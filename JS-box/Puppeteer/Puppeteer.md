@@ -8,6 +8,8 @@ Using yarn: `yarn add puppeteer`
 
 Using pnpm: `pnpm i puppeteer`
 
+Run the program: `node *your-jsfile-name*`
+
 
 ## Basic Setup
 
