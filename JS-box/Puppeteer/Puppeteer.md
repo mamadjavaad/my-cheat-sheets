@@ -58,6 +58,11 @@ await page.type('input#myInput', 'Hello, World!');
 
 ## Waiting for Actions and Elements
 
+### Default Navigation Timeout 
+
+```javascript
+await page.setDefaultNavigationTimeout(60000); // 60000 milliseconds
+```
 ### Waiting for navigation to complete:
 
 ```javascript
