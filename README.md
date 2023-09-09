@@ -1,5 +1,5 @@
 # My Cheat Sheets
-Created with the help of the author(mamadjavaad) and chatbot GPT.
+Created with the help of chat gpt . 
 
 An awesome collection of cheat sheets for programming languages, frameworks, tools, and libraries.
 
@@ -36,7 +36,5 @@ This repository and its contents are licensed under the MIT License. You are fre
 
 The cheat sheets in this repository are intended to be helpful references but may not cover all aspects or versions of the related technologies. Always refer to official documentation and resources for comprehensive information.
 
-##Created By :
 
-Created with the help of the creator and chatbot GPT.
 
